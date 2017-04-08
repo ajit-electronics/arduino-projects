@@ -1,3 +1,5 @@
-# A collection of Arduino projects by https://github.com/jogoes/arduino_projects
+# A collection of Arduino projects by
+
+https://github.com/jogoes/arduino_projects
 
 
